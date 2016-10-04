@@ -1876,13 +1876,13 @@
 	}
 
 	hr {
-		border-top: solid 1px #e0e0e0;
+		border-top: solid 1px #73a067;
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #e0e0e0;
+		border-left: solid 0.5em #73a067;
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -2079,7 +2079,7 @@
 			width: 5em;
 			height: 5em;
 			line-height: 5em;
-			box-shadow: 0 0 0 7px white, 0 0 0 8px #e0e0e0;
+			box-shadow: 0 0 0 7px white, 0 0 0 8px #73a067;
 			margin: 0 0 2em 0;
 		}
 
@@ -2157,7 +2157,7 @@
 			}
 
 	ul.menu li {
-		border-left: solid 1px #e0e0e0;
+		border-left: solid 1px #73a067;
 		display: inline-block;
 		padding: 0 0 0 1em;
 		margin: 0 0 0 1em;
@@ -2180,7 +2180,7 @@
 		}
 
 			table.default tbody tr {
-				border-bottom: solid 1px #e0e0e0;
+				border-bottom: solid 1px #73a067;
 			}
 
 			table.default td {
@@ -3084,7 +3084,7 @@
 				width: 4em;
 				height: 4em;
 				line-height: 4em;
-				box-shadow: 0 0 0 7px white, 0 0 0 8px #e0e0e0;
+				box-shadow: 0 0 0 7px white, 0 0 0 8px #73a067;
 			}
 
 				.icon.major:before {
