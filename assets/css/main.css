@@ -2516,11 +2516,19 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 5em 0 3em 0;
+		padding: 1em 0 1em 0;
 	}
 
 		.wrapper.style1 {
 			background: #fff;
+		}
+
+		.wrapper.style2 {
+			background-color: #fff;
+			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
+			background-position: top left,						bottom left,					top left;
+			background-size: 100% 6em,						100% 6em,						auto;
+			background-repeat: no-repeat,						no-repeat,						repeat;
 		}
 
 		.wrapper.style3 {
@@ -2540,19 +2548,7 @@
 				.wrapper.style3 .button:hover {
 					color: #73a067 !important;
 				}
-/* Wrapper2 */
 
-.wrapper2 {
-		padding: 1em 0 1em 0;
-	}
-
-.wrapper2.style1 {
-			background-color: #fff;
-			background-image: url("images/bg02.png"), url("images/bg03.png"), url("images/bg01.png");
-			background-position: top left,						bottom left,					top left;
-			background-size: 100% 6em,						100% 6em,						auto;
-			background-repeat: no-repeat,						no-repeat,						repeat;
-		}
 
 /* CTA */
 
